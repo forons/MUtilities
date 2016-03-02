@@ -5,3 +5,7 @@ nb-configuration.xml
 
 dependency-reduced-pom.xml
 /target/
+
+/.settings/*
+.classpath
+.project
